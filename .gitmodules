@@ -1,0 +1,3 @@
+[submodule "wtpy"]
+	path = wtpy
+	url = https://github.com/ElderWanng/wtpy.git
